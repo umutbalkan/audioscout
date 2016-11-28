@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/76/tags/1.0.1/tests
+END
+test_audiodata.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/tests/test_audiodata.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/tags/1.0.1/tests/CMakeLists.txt
+END
+auscout-driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/tests/auscout-driver.c
+END
+testbark.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/tests/testbark.c
+END
+metadatadb_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/tags/1.0.1/tests/metadatadb_driver.c
+END
+tblserver_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/tags/1.0.1/tests/tblserver_driver.c
+END
+retrieve_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/tags/1.0.1/tests/retrieve_client.c
+END
+metadatadb_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/tags/1.0.1/tests/metadatadb_client.c
+END
+auscout-sink.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/tags/1.0.1/tests/auscout-sink.c
+END
+testaudiohash.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/tags/1.0.1/tests/testaudiohash.c
+END
+auscout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/tests/auscout.cs
+END
+test_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/tags/1.0.1/tests/test_index.c
+END
+testserialize.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/tags/1.0.1/tests/testserialize.c
+END
+testmergeindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/tests/testmergeindex.c
+END

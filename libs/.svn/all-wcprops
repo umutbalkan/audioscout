@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/76/tags/1.0.1/libs
+END
+phcomplex.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/phcomplex.c
+END
+audiodata.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/audiodata.h
+END
+phcomplex.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/phcomplex.h
+END
+complex.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/tags/1.0.1/libs/complex.c
+END
+complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/tags/1.0.1/libs/complex.h
+END
+zmqhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/zmqhelper.h
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/76/tags/1.0.1/libs/fft.c
+END
+phash_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/tags/1.0.1/libs/phash_audio.c
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/76/tags/1.0.1/libs/fft.h
+END
+pHashAudioConfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/76/tags/1.0.1/libs/pHashAudioConfig.h.in
+END
+audio_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/tags/1.0.1/libs/audio_index.c
+END
+phash_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/tags/1.0.1/libs/phash_audio.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/tags/1.0.1/libs/README.txt
+END
+audiodata.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/audiodata.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/76/tags/1.0.1/libs/CMakeLists.txt
+END
+serialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/tags/1.0.1/libs/serialize.h
+END

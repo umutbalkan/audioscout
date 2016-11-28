@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified
+END
+table_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/table_util.c
+END
+TableConfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/TableConfig.h.in
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/table.c
+END
+127
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/127
+END
+table_loc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/table_loc.h
+END
+table_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/table_t.c
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/NEWS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/README
+END
+table.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/76/tags/1.0.1/libs/table-4.3.0phmodified/table.h
+END

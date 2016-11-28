@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/76/tags/1.0.1/tests/testdir
+END
+amr-1.amr
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/tags/1.0.1/tests/testdir/amr-1.amr
+END
+amr-2.amr
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/tags/1.0.1/tests/testdir/amr-2.amr
+END
+sample2.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/tags/1.0.1/tests/testdir/sample2.ogg
+END
+sample.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/tags/1.0.1/tests/testdir/sample.mp3
+END

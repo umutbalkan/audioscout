@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/76/tags/1.0.1/clients
+END
+MeterWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/tags/1.0.1/clients/MeterWidget.h
+END
+SendThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/tags/1.0.1/clients/SendThread.h
+END
+Microphone-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/76/tags/1.0.1/clients/Microphone-icon.png
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/clients/CMakeLists.txt
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/clients/mainwindow.cpp
+END
+auscout-client.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/tags/1.0.1/clients/auscout-client.c
+END
+auscout-client-main.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/tags/1.0.1/clients/auscout-client-main.pro
+END
+MeterWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/tags/1.0.1/clients/MeterWidget.cpp
+END
+SendThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/tags/1.0.1/clients/SendThread.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/tags/1.0.1/clients/mainwindow.h
+END
+auscout-client-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/tags/1.0.1/clients/auscout-client-main.cpp
+END
+auscout-gui
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/76/tags/1.0.1/clients/auscout-gui
+END

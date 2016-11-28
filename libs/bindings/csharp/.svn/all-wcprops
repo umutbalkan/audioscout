@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp
+END
+phashaudio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp/phashaudio.cs
+END
+TestNI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp/TestNI.cs
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp/CMakeLists.txt
+END
+audiodata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/csharp/audiodata.cs
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java
+END
+org_phash_AudioHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java/org_phash_AudioHash.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java/build.xml
+END
+org_phash_AudioHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/76/tags/1.0.1/libs/bindings/java/org_phash_AudioHash.cpp
+END
